@@ -5,7 +5,7 @@ import { useGesture } from 'react-use-gesture'
 import './styles.css'
 
 const cards = [
-  'https://uploads.codesandbox.io/uploads/user/7b6dbf93-f316-478d-8dd6-9725cadf2967/gcSR-Untitled_Artwork%203.jpg',
+  '',
   'https://uploads.codesandbox.io/uploads/user/7b6dbf93-f316-478d-8dd6-9725cadf2967/vVYn-Untitled_Artwork%2013.jpg',
   'https://uploads.codesandbox.io/uploads/user/7b6dbf93-f316-478d-8dd6-9725cadf2967/_N_E-Untitled_Artwork%207.jpg',
   'https://uploads.codesandbox.io/uploads/user/7b6dbf93-f316-478d-8dd6-9725cadf2967/TmGT-Untitled_Artwork%2010.jpg',
